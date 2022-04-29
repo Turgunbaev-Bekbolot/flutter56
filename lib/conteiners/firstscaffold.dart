@@ -100,12 +100,6 @@ class ScaffoldWidjet extends StatelessWidget {
                   SizedBox(
                     height: 20,
                   ),
-                  Cards(
-                    cvet: Colors.amberAccent,
-                  ),
-                  SizedBox(
-                    height: 20,
-                  ),
                   Conteiners(
                     cvet: Colors.lightBlueAccent,
                   ),
@@ -114,6 +108,12 @@ class ScaffoldWidjet extends StatelessWidget {
                   ),
                   Cards(
                     cvet: Colors.pinkAccent,
+                  ),
+                  SizedBox(
+                    height: 20,
+                  ),
+                  Cards(
+                    cvet: Colors.amberAccent,
                   ),
                 ],
               ),
